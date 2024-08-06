@@ -1,0 +1,11 @@
+D:\HWID Spoofer\GenKey\GenKey\bin\Release\GenKey.exe.config
+D:\HWID Spoofer\GenKey\GenKey\bin\Release\GenKey.exe.manifest
+D:\HWID Spoofer\GenKey\GenKey\bin\Release\GenKey.application
+D:\HWID Spoofer\GenKey\GenKey\bin\Release\GenKey.exe
+D:\HWID Spoofer\GenKey\GenKey\bin\Release\GenKey.pdb
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.csproj.AssemblyReference.cache
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.csproj.CoreCompileInputs.cache
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.exe.manifest
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.application
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.exe
+D:\HWID Spoofer\GenKey\GenKey\obj\Release\GenKey.pdb

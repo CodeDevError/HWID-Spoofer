@@ -1,0 +1,10 @@
+D:\HWID Spoofer\HWID\HWID\obj\Debug\HWID.csproj.AssemblyReference.cache
+D:\HWID Spoofer\HWID\HWID\obj\Debug\HWID.csproj.CoreCompileInputs.cache
+D:\HWID Spoofer\HWID\HWID\bin\Debug\HWID.exe.config
+D:\HWID Spoofer\HWID\HWID\bin\Debug\HWID.exe
+D:\HWID Spoofer\HWID\HWID\bin\Debug\HWID.pdb
+D:\HWID Spoofer\HWID\HWID\bin\Debug\System.CodeDom.dll
+D:\HWID Spoofer\HWID\HWID\bin\Debug\System.CodeDom.xml
+D:\HWID Spoofer\HWID\HWID\obj\Debug\HWID.csproj.Up2Date
+D:\HWID Spoofer\HWID\HWID\obj\Debug\HWID.exe
+D:\HWID Spoofer\HWID\HWID\obj\Debug\HWID.pdb

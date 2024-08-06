@@ -1,0 +1,7 @@
+D:\HWID Spoofer\GenKey\GenKey\bin\Debug\GenKey.exe.config
+D:\HWID Spoofer\GenKey\GenKey\bin\Debug\GenKey.exe
+D:\HWID Spoofer\GenKey\GenKey\bin\Debug\GenKey.pdb
+D:\HWID Spoofer\GenKey\GenKey\obj\Debug\GenKey.csproj.AssemblyReference.cache
+D:\HWID Spoofer\GenKey\GenKey\obj\Debug\GenKey.csproj.CoreCompileInputs.cache
+D:\HWID Spoofer\GenKey\GenKey\obj\Debug\GenKey.exe
+D:\HWID Spoofer\GenKey\GenKey\obj\Debug\GenKey.pdb
